@@ -10,7 +10,9 @@ cover:
 A list of possible things to include on the lab wiki,
 developed on May 25, 2022.
 
+{{<math>}}
 $$\sum_{n=1}^\infty \frac{1}{2^n} = \frac{\pi^2}{6}$$
+{{</math>}}
 
 - Lab Onboarding
 - Graduate Student Policies
