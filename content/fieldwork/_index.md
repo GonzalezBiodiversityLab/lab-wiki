@@ -2,8 +2,7 @@
 # Title, summary, and page position.
 title: Field Work 
 linktitle: Field Work
-summary:
-> Does this work?
+summary: Field Work
 weight: 1
 # icon: book
 # icon_pack: fas
