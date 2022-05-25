@@ -1,5 +1,5 @@
 ---
-title: 🧠 Content Brainstorm
+title: 🧠 May 25, 2022
 type: book # Do not modify.
 toc: false
 
