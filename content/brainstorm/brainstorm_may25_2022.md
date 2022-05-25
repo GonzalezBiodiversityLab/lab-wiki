@@ -2,9 +2,6 @@
 title: 🧠 May 25, 2022
 type: book # Do not modify.
 toc: false
-
-cover:
-  image: covers/coverimg.jpg
 ---
 
 A list of possible things to include on the lab wiki,
