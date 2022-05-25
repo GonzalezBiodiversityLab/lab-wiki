@@ -3,7 +3,7 @@
 title: Conferences 
 linktitle: Conferences
 summary: Conferences
-weight: 1
+weight: 6
 # icon: book
 # icon_pack: fas
 

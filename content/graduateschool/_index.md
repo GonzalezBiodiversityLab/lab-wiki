@@ -3,7 +3,7 @@
 title: Graduate School
 linktitle: Graduate School
 summary: Brainstorming
-weight: 1
+weight: 2
 # icon: book
 # icon_pack: fas
 

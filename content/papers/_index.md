@@ -3,7 +3,7 @@
 title: Papers
 linktitle: Papers
 summary: Brainstorming
-weight: 1
+weight: 4
 # icon: book
 # icon_pack: fas
 

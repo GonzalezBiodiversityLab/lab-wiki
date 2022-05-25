@@ -3,7 +3,7 @@
 title: Lab Work 
 linktitle: Lab Work
 summary: Brainstorming
-weight: 1
+weight: 8
 # icon: book
 # icon_pack: fas
 

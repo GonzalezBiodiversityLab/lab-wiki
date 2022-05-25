@@ -3,7 +3,7 @@
 title: Computing
 linktitle: Computing
 summary: Computing
-weight: 1
+weight: 10
 # icon: book
 # icon_pack: fas
 

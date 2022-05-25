@@ -3,7 +3,7 @@
 title: Lab Data
 linktitle: Lab Data
 summary: Brainstorming
-weight: 1
+weight: 9
 # icon: book
 # icon_pack: fas
 
