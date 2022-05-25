@@ -3,7 +3,7 @@
 title: Montreal
 linktitle: Montreal
 summary: Brainstorming
-weight: 1
+weight: 12
 # icon: book
 # icon_pack: fas
 

@@ -3,7 +3,7 @@
 title: LEAP 
 linktitle: LEAP
 summary: Brainstorming
-weight: 1
+weight: 11
 # icon: book
 # icon_pack: fas
 
