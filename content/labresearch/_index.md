@@ -1,6 +1,6 @@
 ---
-title: 🧠 Content Brainstorm 
-linktitle: 🧠 Content Brainstorm
+title: Lab Research
+linktitle: Lab Research
 summary: Brainstorming
 weight: 3
 
