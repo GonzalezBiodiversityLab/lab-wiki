@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
-title: 🧠 Content Brainstorm 
-linktitle: 🧠 Content Brainstorm
+title: Onboarding 
+linktitle: Onboarding
 summary: Brainstorming
 weight: 1
 # icon: book
