@@ -1,11 +1,10 @@
 ---
-title: ✍️ Notes
+title: ✍️ The Gonzalez Lab Wiki
 type: book # Do not modify.
 toc: false
 
 cover:
-  image: covers/nasa-Q1p7bh3SHj8-unsplash.jpg
-  caption: NASA
+  image: covers/coverimg.jpg
 ---
 
 Welcome to the _Notes_ template!
