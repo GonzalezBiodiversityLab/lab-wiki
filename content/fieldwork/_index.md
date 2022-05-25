@@ -2,7 +2,8 @@
 # Title, summary, and page position.
 title: Field Work 
 linktitle: Field Work
-summary: Brainstorming
+summary:
+> Does this work?
 weight: 1
 # icon: book
 # icon_pack: fas
