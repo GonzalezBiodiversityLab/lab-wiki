@@ -1,7 +1,7 @@
 ---
 title: ✍️ The Gonzalez Lab Wiki
 type: book # Do not modify.
-toc: false
+toc:  
 
 cover:
   image: covers/coverimg.jpg

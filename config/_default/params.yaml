@@ -41,7 +41,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Gonzalez Lab. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -65,7 +65,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/wowchemy/hugo-notes-theme'
+    url: 'https://github.com/GonzalezBiodiversityLab/lab-wiki'
     content_dir: content
     branch: main
   comment:
