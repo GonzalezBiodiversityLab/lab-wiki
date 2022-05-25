@@ -1,8 +1,8 @@
 ---
 # Title, summary, and page position.
-title: 🧠 Content Brainstorm 
-linktitle: 🧠 Content Brainstorm
-summary: Brainstorming
+title: Conferences 
+linktitle: Conferences
+summary: Conferences
 weight: 1
 # icon: book
 # icon_pack: fas
