@@ -1,5 +1,5 @@
 ---
-title: R.md 
+title: R 
 type: book # Do not modify.
 toc: false
 ---

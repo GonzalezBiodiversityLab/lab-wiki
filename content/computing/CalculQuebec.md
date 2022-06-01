@@ -1,5 +1,5 @@
 ---
-title: CalculQuebec.md 
+title: CalculQuebec 
 type: book # Do not modify.
 toc: false
 ---

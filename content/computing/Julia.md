@@ -1,5 +1,5 @@
 ---
-title: Julia.md 
+title: Julia
 type: book # Do not modify.
 toc: false
 ---
