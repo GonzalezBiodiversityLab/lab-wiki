@@ -38,13 +38,14 @@ Connectivity
   - Circuit theory and resistance
 
 Ecosystem services
-  - foo
-
+  - EESVs
+  - 
 Evolutionary rescue
   - Changing environments
   - Fitness and adaptation
   - Rate of selection
   - Speciation
+  - Empirical tests
 
 
 {{< list_children >}}
