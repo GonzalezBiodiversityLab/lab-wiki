@@ -12,13 +12,39 @@ type: book # Do not modify.
 Describe general topics the lab is interested in:
 
 - Spatial ecology
-  - Metapopulation dynamics
+  - Scale, Levin 1992
+  - Landscape ecology
+  - Dynamics: Metapopulations and metacommunities
   - Sinks and sources
-  - Metacommunity dynamics
+  - Networks across space
+  - Species area relationships
+  - Beta-diversity
 
 Community ecology
   - Competition
-  - Gause 
+  - Niche, Grinnel and Hutchinson
+  - Neutral theory
+  - Gause, competition
+  - Trophic dynamics
+    - Thermodynamic theory
+    - Allometry
+    - MaxEnt theory
+  - Co-existence, Chesson
+  - Network ecology
+
+Connectivity
+  - Structural vs functional connectivity
+  - Spatial graphs
+  - Circuit theory and resistance
+
+Ecosystem services
+  - foo
+
+Evolutionary rescue
+  - Changing environments
+  - Fitness and adaptation
+  - Rate of selection
+  - Speciation
 
 
 {{< list_children >}}
