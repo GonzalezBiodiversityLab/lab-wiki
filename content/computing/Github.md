@@ -1,5 +1,5 @@
 ---
-title: Github.md 
+title: Github
 type: book # Do not modify.
 toc: false
 ---

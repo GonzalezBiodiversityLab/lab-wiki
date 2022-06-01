@@ -1,5 +1,5 @@
 ---
-title: safety.md 
+title: Safety
 type: book # Do not modify.
 toc: false
 ---
