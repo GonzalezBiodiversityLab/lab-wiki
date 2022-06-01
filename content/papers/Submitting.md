@@ -1,5 +1,5 @@
 ---
-title: Submitting.md 
+title: Submitting
 type: book # Do not modify.
 toc: false
 ---

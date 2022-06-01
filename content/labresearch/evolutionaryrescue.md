@@ -1,6 +1,5 @@
 ---
-title: Revising 
+title: Evolutionary Rescue
 type: book # Do not modify.
 toc: false
 ---
-Sample text
