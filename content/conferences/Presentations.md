@@ -1,5 +1,5 @@
 ---
-title: Presentations.md 
+title: Presentations
 type: book # Do not modify.
 toc: false
 ---
