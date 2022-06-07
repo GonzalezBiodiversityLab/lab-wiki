@@ -1,5 +1,7 @@
 ---
 title: Connectivity
-type: book # Do not modify.
-toc: false
+linktitle: Connectivity
+summary: Connectivity
+toc: true
+type: book
 ---
