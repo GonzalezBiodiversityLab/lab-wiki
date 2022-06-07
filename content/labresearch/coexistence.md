@@ -1,8 +1,7 @@
 ---
-title: Network Ecology
-linktitle: Network Ecology
-summary: Network Ecology
+title: Coexistence
+linktitle: Coexistence
+summary: Coexistence
 toc: true
 type: book
 ---
-
