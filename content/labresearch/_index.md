@@ -8,15 +8,15 @@ type: book # Do not modify.
 # toc: false
 ---
 
-# A mesoscopic theory of biodiversity
+## A mesoscopic theory of biodiversity
 
 [metacommunityecology]
 
-# Connected Protected Area Networks
+## Connected Protected Area Networks
 
-# Evolutionary rescue
+## Evolutionary rescue
 
-# Species persistence in fluctuating environments
+## Species persistence in fluctuating environments
 
 
 
