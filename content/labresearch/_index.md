@@ -10,7 +10,9 @@ type: book # Do not modify.
 
 ## A mesoscopic theory of biodiversity
 
-[metacommunityecology]
+[Metacommunities ]({{< relref "./metacommunityecology.md" >}})
+[Metapopulations]({{< relref "./metapopulations.md" >}})
+[Mesoecology]({{< relref "./mesoecology.md" >}})
 
 ## Connected Protected Area Networks
 
